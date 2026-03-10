@@ -4,6 +4,7 @@ An AI-powered Traffic Enforcement System that automatically detects vehicles, es
 🧠 System Workflow
 
 1️⃣ Vehicle detection from video frame
+
 2️⃣ Vehicle tracking across frames
 3️⃣ Speed estimation using distance between detection lines
 4️⃣ Check if speed exceeds the configured limit
