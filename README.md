@@ -48,7 +48,7 @@ FilterPy	Tracking algorithms
 
 1️⃣ Clone the repository
 
-git clone git clone https://github.com/yourusername/AI-Traffic-Challan-System.git
+git clone https://github.com/harshporwal01/AI-Over-Speeding-Vehicle-Challan-System.git
 
 cd AI-Over-Speeding-Vehicle-Challan-System
 
